@@ -1,5 +1,5 @@
 # Nerual Network From Scratch
----
+
 Anyone with even some cursuory knowledge in AI/ML likely knows the basics about neural networks.You connect a few of layers of nodes with weights and biases, train it on some data, and bingo, you've got a network that can recognize dogs or predict stock prices.
 
 I've always found this high-level understanding a little wishy-washy, though. Even when working through Kaggle courses over the summer, fully building out these models in Tensorflow, I felt like I didn't understand what was going on or what I should be paying attention to in the code.
