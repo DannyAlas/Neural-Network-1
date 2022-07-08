@@ -1,6 +1,6 @@
 # Nerual Network From Scratch
 
-![learning]([img\NN_Learning_Curve.png](https://github.com/DannyAlas/Neural-Network-1/blob/main/img/NN_Learning_Curve.png))
+![learning](https://raw.githubusercontent.com/DannyAlas/Neural-Network-1/main/img/NN_Learning_Curve.png)
 
 Anyone with even some cursuory knowledge in AI/ML likely knows the basics about neural networks.You connect a few of layers of nodes with weights and biases, train it on some data, and bingo, you've got a network that can recognize dogs or predict stock prices.
 
