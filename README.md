@@ -6,11 +6,11 @@ I've always found this high-level understanding a little wishy-washy, though. Ev
 
 I didn't begin building this intuition though until i took Andrew Ng's Intro to ML course on Coursera, which taught ML principles and design not using Tensorflow or Keras but Matlab instead. For me, this more concrete technical understanding was a huge boost for my understanding of ML overall. To further solidify my learning, I spent a few hours over the past few days building a simple neural network from scratch, and trained it to recognize handwritten digits from the MNIST dataset.
 
-In the [Jupyter Notebook](./img/NN-from-scratch.ipynb) I give a more detailed walkthourgh of my process and code design. 
+In the [Jupyter Notebook](NN-from-scratch.ipynb) I give a more detailed walkthourgh of my process and code design. 
 
 The dataset used is the MNIST handwritten digit dataset. It contains 28 x 28 grayscale images of handwritten digits. Each image is accompanied by a label of what digit it belongs to, from 0 to 9. The task is to build a network that takes in an image and predicts the written digit.
 
-![learning](https://raw.githubusercontent.com/DannyAlas/Neural-Network-1/main/img/NN_Learning_Curve.png)
+![learning](.\\img\\NN_Learning_Curve.png)
 
 ### Neural Network Overview
 The network consists of three layers: an input layer and two parameter layers. Since the input layer has no parameters, this network would be referred to as a two-layer neural network.
