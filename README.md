@@ -10,7 +10,7 @@ In the [Jupyter Notebook](NN-from-scratch.ipynb) I give a more detailed walkthou
 
 The dataset used is the MNIST handwritten digit dataset. It contains 28 x 28 grayscale images of handwritten digits. Each image is accompanied by a label of what digit it belongs to, from 0 to 9. The task is to build a network that takes in an image and predicts the written digit.
 
-![learning](.\\img\\NN_Learning_Curve.png)
+![learning](https://raw.githubusercontent.com/DannyAlas/Neural-Network-1/main/img/NN_Learning_Curve.png)
 
 ### Neural Network Overview
 The network consists of three layers: an input layer and two parameter layers. Since the input layer has no parameters, this network would be referred to as a two-layer neural network.
